@@ -9,3 +9,5 @@ Este texto es el tercer commit y fue generado con git, no con github desktop
 
 
 Este texto corresponde al control de versiones con VSC
+
+Este texto se agregado para mostrar el uso de plugin de github para Visual Studio Code
