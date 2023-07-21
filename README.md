@@ -13,3 +13,5 @@ Este texto corresponde al control de versiones con VSC
 Este texto se agregado para mostrar el uso de plugin de github para Visual Studio Code
 
 Este texto es un repaso a como hacer commit con github.
+
+Este texto es un repaso al control de versiones con VSC.
