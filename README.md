@@ -16,3 +16,4 @@ Este texto es un repaso a como hacer commit con github.
 
 Este texto es un repaso al control de versiones con VSC.
 Probando este texto en windows.
+Este texto se agrego para mostrar el uso de github para VSC en windows
